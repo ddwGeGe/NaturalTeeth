@@ -17,7 +17,8 @@
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/e9e9ced2-2641-48fe-ac0e-e9221d4e2e03)
 
-![Uploading image.png…]()
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/69b980e4-990f-4872-9491-7b16a15c8e9f)
+
 
 
 # 参考链接
