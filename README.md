@@ -6,17 +6,19 @@
 
 # 工具界面
 
-![image-20230529213341981](D:\Typora\图片\image-20230529213341981.png)
+https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/1.png
 
-![image-20230529213406677](D:\Typora\图片\image-20230529213406677.png)
+https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/2.png
 
 # 部分漏洞利用
 
-![image-20230529213634347](D:\Typora\图片\image-20230529213634347.png)
+https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/3.png
 
-![image-20230529214007417](D:\Typora\图片\image-20230529214007417.png)
+https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/4.png
 
-![image-20230529220548969](D:\Typora\图片\image-20230529220548969.png)
+https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/5.png
+
+
 
 # 参考链接
 
