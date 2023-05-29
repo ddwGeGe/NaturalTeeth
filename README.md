@@ -6,18 +6,18 @@
 
 # 工具界面
 
-https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/1.png
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/ed80ec06-3d96-47b2-9750-7ec33c6e12c1)
 
-https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/2.png
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/733edd51-25e9-46bf-bd2f-5dcaac39b91b)
+
 
 # 部分漏洞利用
 
-https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/3.png
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/4e778dd3-5f5d-4fb0-b923-1e727aef6d26)
 
-https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/4.png
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/e9e9ced2-2641-48fe-ac0e-e9221d4e2e03)
 
-https://github.com/ddwGeGe/NaturalTeeth/blob/master/IMG/5.png
-
+![Uploading image.png…]()
 
 
 # 参考链接
