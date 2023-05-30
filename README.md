@@ -25,13 +25,11 @@
 
 GUI框架部分代码及漏洞 有参考如下师傅文章，感谢前辈的总结 ~~（不分先后）
 
+https://github.com/yhy0/ExpDemo-JavaFX
+
 https://github.com/bewhale/thinkphp_gui_tools
 
-https://github.com/yhy0
-
 https://mp.weixin.qq.com/s/wzSCXsLifOdnDWVPVNT2lQ
-
-https://github.com/yhy0/ExpDemo-JavaFX
 
 https://mp.weixin.qq.com/s/JVI3wpl6hQ4Y63GbNuMRjA
 
