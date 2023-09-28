@@ -10,8 +10,9 @@
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/3a6aa054-5bf3-45d8-831c-65b798e7ae0b)
 
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/cb534164-896c-451f-a62a-4ee52c1f800e)
 
-![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/733edd51-25e9-46bf-bd2f-5dcaac39b91b)
+
 
 
 # 部分漏洞利用
