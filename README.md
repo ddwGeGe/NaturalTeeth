@@ -8,7 +8,8 @@
 
 # 工具界面
 
-![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/ed80ec06-3d96-47b2-9750-7ec33c6e12c1)
+![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/3a6aa054-5bf3-45d8-831c-65b798e7ae0b)
+
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/733edd51-25e9-46bf-bd2f-5dcaac39b91b)
 
