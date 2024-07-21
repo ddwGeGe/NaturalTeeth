@@ -1,18 +1,16 @@
-# 漏洞利用小工具 (NaturalTeeth v1.2) 
+# 漏洞利用小工具 (NaturalTeeth v1.3) 
 
 1、一款漏洞利用小工具  仅学习交流使用 大佬勿喷（写的有点匆忙 ~ ~）
 
-2、由于环境有限，部分应用利用漏洞较少，后续有环境能复现的时候，会尽量添加一些漏洞  方便日常学习使用
+2、作者不参与任何 HVV/GFYL/红队 溯源到ID及github等 攻击事件与作者无关
 
-3、增加部分漏洞利用、版本号（v1.2）
+3、后续工具可能不再进行更新优化 一切随缘吧  
 
 # 工具界面
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/3a6aa054-5bf3-45d8-831c-65b798e7ae0b)
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/cb534164-896c-451f-a62a-4ee52c1f800e)
-
-
 
 
 # 部分漏洞利用
@@ -22,7 +20,6 @@
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/e9e9ced2-2641-48fe-ac0e-e9221d4e2e03)
 
 ![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/69b980e4-990f-4872-9491-7b16a15c8e9f)
-
 
 
 # 参考链接
