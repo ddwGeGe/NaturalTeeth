@@ -12,11 +12,9 @@
 
 # 部分漏洞利用
 
-![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/4e778dd3-5f5d-4fb0-b923-1e727aef6d26)
+![image](https://github.com/user-attachments/assets/28e3bbf9-3775-4426-8d8f-7d44a8bbc231)
 
-![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/e9e9ced2-2641-48fe-ac0e-e9221d4e2e03)
-
-![image](https://github.com/ddwGeGe/NaturalTeeth/assets/44337217/69b980e4-990f-4872-9491-7b16a15c8e9f)
+![image](https://github.com/user-attachments/assets/f39ccc9b-d5d8-44d5-a0ae-bc3e001b4ae9)
 
 
 # 参考链接
